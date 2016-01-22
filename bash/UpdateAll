@@ -6,16 +6,11 @@ brew upgrade
 print "NPM updating"
 npm update -g
 npm upgrade -g
-
 print "PIP updating"
 pyUp
-
 print "Gem updating"
 gem update
-
 print "tldr updating"
 tldr --update
-
 print "finished"
-
 exit
