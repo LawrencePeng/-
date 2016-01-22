@@ -1,0 +1,5 @@
+#!/usr/local/bin/zsh
+
+sudo pip install "$*";
+sudo pip3 install "$*";
+sudo pip_pypy install "$*"

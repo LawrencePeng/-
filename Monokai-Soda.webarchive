@@ -1,0 +1,232 @@
+bplist00—_WebMainResource’	
+_WebResourceTextEncodingName_WebResourceFrameName^WebResourceURL_WebResourceData_WebResourceMIMETypeUutf-8P_file:///index.htmlOs√<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01//EN" "http://www.w3.org/TR/html4/strict.dtd">
+<html>
+<head>
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+  <meta http-equiv="Content-Style-Type" content="text/css">
+  <title></title>
+  <meta name="Generator" content="Cocoa HTML Writer">
+  <meta name="CocoaVersion" content="1348.17">
+  <style type="text/css">
+    p.p1 {margin: 0.0px 0.0px 0.0px 0.0px; font: 12.0px Courier; color: #000000; -webkit-text-stroke: #000000}
+    span.s1 {font-kerning: none}
+    span.Apple-tab-span {white-space:pre}
+  </style>
+</head>
+<body>
+<p class="p1"><span class="s1">&lt;?xml version="1.0" encoding="UTF-8"?&gt;</span></p>
+<p class="p1"><span class="s1">&lt;!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd"&gt;</span></p>
+<p class="p1"><span class="s1">&lt;plist version="1.0"&gt;</span></p>
+<p class="p1"><span class="s1">&lt;dict&gt;</span></p>
+<p class="p1"><span class="s1"><span class="Apple-tab-span">	</span>&lt;key&gt;Ansi 0 Color&lt;/key&gt;</span></p>
+<p class="p1"><span class="s1"><span class="Apple-tab-span">	</span>&lt;dict&gt;</span></p>
+<p class="p1"><span class="s1"><span class="Apple-tab-span">	</span><span class="Apple-tab-span">	</span>&lt;key&gt;Blue Component&lt;/key&gt;</span></p>
+<p class="p1"><span class="s1"><span class="Apple-tab-span">	</span><span class="Apple-tab-span">	</span>&lt;real&gt;0.14117647707462311&lt;/real&gt;</span></p>
+<p class="p1"><span class="s1"><span class="Apple-tab-span">	</span><span class="Apple-tab-span">	</span>&lt;key&gt;Green Component&lt;/key&gt;</span></p>
+<p class="p1"><span class="s1"><span class="Apple-tab-span">	</span><span class="Apple-tab-span">	</span>&lt;real&gt;0.14117647707462311&lt;/real&gt;</span></p>
+<p class="p1"><span class="s1"><span class="Apple-tab-span">	</span><span class="Apple-tab-span">	</span>&lt;key&gt;Red Component&lt;/key&gt;</span></p>
+<p class="p1"><span class="s1"><span class="Apple-tab-span">	</span><span class="Apple-tab-span">	</span>&lt;real&gt;0.13725490868091583&lt;/real&gt;</span></p>
+<p class="p1"><span class="s1"><span class="Apple-tab-span">	</span>&lt;/dict&gt;</span></p>
+<p class="p1"><span class="s1"><span class="Apple-tab-span">	</span>&lt;key&gt;Ansi 1 Color&lt;/key&gt;</span></p>
+<p class="p1"><span class="s1"><span class="Apple-tab-span">	</span>&lt;dict&gt;</span></p>
+<p class="p1"><span class="s1"><span class="Apple-tab-span">	</span><span class="Apple-tab-span">	</span>&lt;key&gt;Blue Component&lt;/key&gt;</span></p>
+<p class="p1"><span class="s1"><span class="Apple-tab-span">	</span><span class="Apple-tab-span">	</span>&lt;real&gt;0.35294118523597717&lt;/real&gt;</span></p>
+<p class="p1"><span class="s1"><span class="Apple-tab-span">	</span><span class="Apple-tab-span">	</span>&lt;key&gt;Green Component&lt;/key&gt;</span></p>
+<p class="p1"><span class="s1"><span class="Apple-tab-span">	</span><span class="Apple-tab-span">	</span>&lt;real&gt;0.050980392843484879&lt;/real&gt;</span></p>
+<p class="p1"><span class="s1"><span class="Apple-tab-span">	</span><span class="Apple-tab-span">	</span>&lt;key&gt;Red Component&lt;/key&gt;</span></p>
+<p class="p1"><span class="s1"><span class="Apple-tab-span">	</span><span class="Apple-tab-span">	</span>&lt;real&gt;0.96078431606292725&lt;/real&gt;</span></p>
+<p class="p1"><span class="s1"><span class="Apple-tab-span">	</span>&lt;/dict&gt;</span></p>
+<p class="p1"><span class="s1"><span class="Apple-tab-span">	</span>&lt;key&gt;Ansi 10 Color&lt;/key&gt;</span></p>
+<p class="p1"><span class="s1"><span class="Apple-tab-span">	</span>&lt;dict&gt;</span></p>
+<p class="p1"><span class="s1"><span class="Apple-tab-span">	</span><span class="Apple-tab-span">	</span>&lt;key&gt;Blue Component&lt;/key&gt;</span></p>
+<p class="p1"><span class="s1"><span class="Apple-tab-span">	</span><span class="Apple-tab-span">	</span>&lt;real&gt;0.12156862765550613&lt;/real&gt;</span></p>
+<p class="p1"><span class="s1"><span class="Apple-tab-span">	</span><span class="Apple-tab-span">	</span>&lt;key&gt;Green Component&lt;/key&gt;</span></p>
+<p class="p1"><span class="s1"><span class="Apple-tab-span">	</span><span class="Apple-tab-span">	</span>&lt;real&gt;0.86666667461395264&lt;/real&gt;</span></p>
+<p class="p1"><span class="s1"><span class="Apple-tab-span">	</span><span class="Apple-tab-span">	</span>&lt;key&gt;Red Component&lt;/key&gt;</span></p>
+<p class="p1"><span class="s1"><span class="Apple-tab-span">	</span><span class="Apple-tab-span">	</span>&lt;real&gt;0.58823531866073608&lt;/real&gt;</span></p>
+<p class="p1"><span class="s1"><span class="Apple-tab-span">	</span>&lt;/dict&gt;</span></p>
+<p class="p1"><span class="s1"><span class="Apple-tab-span">	</span>&lt;key&gt;Ansi 11 Color&lt;/key&gt;</span></p>
+<p class="p1"><span class="s1"><span class="Apple-tab-span">	</span>&lt;dict&gt;</span></p>
+<p class="p1"><span class="s1"><span class="Apple-tab-span">	</span><span class="Apple-tab-span">	</span>&lt;key&gt;Blue Component&lt;/key&gt;</span></p>
+<p class="p1"><span class="s1"><span class="Apple-tab-span">	</span><span class="Apple-tab-span">	</span>&lt;real&gt;0.33725491166114807&lt;/real&gt;</span></p>
+<p class="p1"><span class="s1"><span class="Apple-tab-span">	</span><span class="Apple-tab-span">	</span>&lt;key&gt;Green Component&lt;/key&gt;</span></p>
+<p class="p1"><span class="s1"><span class="Apple-tab-span">	</span><span class="Apple-tab-span">	</span>&lt;real&gt;0.77254903316497803&lt;/real&gt;</span></p>
+<p class="p1"><span class="s1"><span class="Apple-tab-span">	</span><span class="Apple-tab-span">	</span>&lt;key&gt;Red Component&lt;/key&gt;</span></p>
+<p class="p1"><span class="s1"><span class="Apple-tab-span">	</span><span class="Apple-tab-span">	</span>&lt;real&gt;0.89411765336990356&lt;/real&gt;</span></p>
+<p class="p1"><span class="s1"><span class="Apple-tab-span">	</span>&lt;/dict&gt;</span></p>
+<p class="p1"><span class="s1"><span class="Apple-tab-span">	</span>&lt;key&gt;Ansi 12 Color&lt;/key&gt;</span></p>
+<p class="p1"><span class="s1"><span class="Apple-tab-span">	</span>&lt;dict&gt;</span></p>
+<p class="p1"><span class="s1"><span class="Apple-tab-span">	</span><span class="Apple-tab-span">	</span>&lt;key&gt;Blue Component&lt;/key&gt;</span></p>
+<p class="p1"><span class="s1"><span class="Apple-tab-span">	</span><span class="Apple-tab-span">	</span>&lt;real&gt;0.80392158031463623&lt;/real&gt;</span></p>
+<p class="p1"><span class="s1"><span class="Apple-tab-span">	</span><span class="Apple-tab-span">	</span>&lt;key&gt;Green Component&lt;/key&gt;</span></p>
+<p class="p1"><span class="s1"><span class="Apple-tab-span">	</span><span class="Apple-tab-span">	</span>&lt;real&gt;0.3960784375667572&lt;/real&gt;</span></p>
+<p class="p1"><span class="s1"><span class="Apple-tab-span">	</span><span class="Apple-tab-span">	</span>&lt;key&gt;Red Component&lt;/key&gt;</span></p>
+<p class="p1"><span class="s1"><span class="Apple-tab-span">	</span><span class="Apple-tab-span">	</span>&lt;real&gt;0.57647061347961426&lt;/real&gt;</span></p>
+<p class="p1"><span class="s1"><span class="Apple-tab-span">	</span>&lt;/dict&gt;</span></p>
+<p class="p1"><span class="s1"><span class="Apple-tab-span">	</span>&lt;key&gt;Ansi 13 Color&lt;/key&gt;</span></p>
+<p class="p1"><span class="s1"><span class="Apple-tab-span">	</span>&lt;dict&gt;</span></p>
+<p class="p1"><span class="s1"><span class="Apple-tab-span">	</span><span class="Apple-tab-span">	</span>&lt;key&gt;Blue Component&lt;/key&gt;</span></p>
+<p class="p1"><span class="s1"><span class="Apple-tab-span">	</span><span class="Apple-tab-span">	</span>&lt;real&gt;0.35294118523597717&lt;/real&gt;</span></p>
+<p class="p1"><span class="s1"><span class="Apple-tab-span">	</span><span class="Apple-tab-span">	</span>&lt;key&gt;Green Component&lt;/key&gt;</span></p>
+<p class="p1"><span class="s1"><span class="Apple-tab-span">	</span><span class="Apple-tab-span">	</span>&lt;real&gt;0.050980392843484879&lt;/real&gt;</span></p>
+<p class="p1"><span class="s1"><span class="Apple-tab-span">	</span><span class="Apple-tab-span">	</span>&lt;key&gt;Red Component&lt;/key&gt;</span></p>
+<p class="p1"><span class="s1"><span class="Apple-tab-span">	</span><span class="Apple-tab-span">	</span>&lt;real&gt;0.96078431606292725&lt;/real&gt;</span></p>
+<p class="p1"><span class="s1"><span class="Apple-tab-span">	</span>&lt;/dict&gt;</span></p>
+<p class="p1"><span class="s1"><span class="Apple-tab-span">	</span>&lt;key&gt;Ansi 14 Color&lt;/key&gt;</span></p>
+<p class="p1"><span class="s1"><span class="Apple-tab-span">	</span>&lt;dict&gt;</span></p>
+<p class="p1"><span class="s1"><span class="Apple-tab-span">	</span><span class="Apple-tab-span">	</span>&lt;key&gt;Blue Component&lt;/key&gt;</span></p>
+<p class="p1"><span class="s1"><span class="Apple-tab-span">	</span><span class="Apple-tab-span">	</span>&lt;real&gt;0.88235294818878174&lt;/real&gt;</span></p>
+<p class="p1"><span class="s1"><span class="Apple-tab-span">	</span><span class="Apple-tab-span">	</span>&lt;key&gt;Green Component&lt;/key&gt;</span></p>
+<p class="p1"><span class="s1"><span class="Apple-tab-span">	</span><span class="Apple-tab-span">	</span>&lt;real&gt;0.82352942228317261&lt;/real&gt;</span></p>
+<p class="p1"><span class="s1"><span class="Apple-tab-span">	</span><span class="Apple-tab-span">	</span>&lt;key&gt;Red Component&lt;/key&gt;</span></p>
+<p class="p1"><span class="s1"><span class="Apple-tab-span">	</span><span class="Apple-tab-span">	</span>&lt;real&gt;0.34509804844856262&lt;/real&gt;</span></p>
+<p class="p1"><span class="s1"><span class="Apple-tab-span">	</span>&lt;/dict&gt;</span></p>
+<p class="p1"><span class="s1"><span class="Apple-tab-span">	</span>&lt;key&gt;Ansi 15 Color&lt;/key&gt;</span></p>
+<p class="p1"><span class="s1"><span class="Apple-tab-span">	</span>&lt;dict&gt;</span></p>
+<p class="p1"><span class="s1"><span class="Apple-tab-span">	</span><span class="Apple-tab-span">	</span>&lt;key&gt;Blue Component&lt;/key&gt;</span></p>
+<p class="p1"><span class="s1"><span class="Apple-tab-span">	</span><span class="Apple-tab-span">	</span>&lt;real&gt;0.9359474778175354&lt;/real&gt;</span></p>
+<p class="p1"><span class="s1"><span class="Apple-tab-span">	</span><span class="Apple-tab-span">	</span>&lt;key&gt;Green Component&lt;/key&gt;</span></p>
+<p class="p1"><span class="s1"><span class="Apple-tab-span">	</span><span class="Apple-tab-span">	</span>&lt;real&gt;0.96549534797668457&lt;/real&gt;</span></p>
+<p class="p1"><span class="s1"><span class="Apple-tab-span">	</span><span class="Apple-tab-span">	</span>&lt;key&gt;Red Component&lt;/key&gt;</span></p>
+<p class="p1"><span class="s1"><span class="Apple-tab-span">	</span><span class="Apple-tab-span">	</span>&lt;real&gt;0.96537256240844727&lt;/real&gt;</span></p>
+<p class="p1"><span class="s1"><span class="Apple-tab-span">	</span>&lt;/dict&gt;</span></p>
+<p class="p1"><span class="s1"><span class="Apple-tab-span">	</span>&lt;key&gt;Ansi 2 Color&lt;/key&gt;</span></p>
+<p class="p1"><span class="s1"><span class="Apple-tab-span">	</span>&lt;dict&gt;</span></p>
+<p class="p1"><span class="s1"><span class="Apple-tab-span">	</span><span class="Apple-tab-span">	</span>&lt;key&gt;Blue Component&lt;/key&gt;</span></p>
+<p class="p1"><span class="s1"><span class="Apple-tab-span">	</span><span class="Apple-tab-span">	</span>&lt;real&gt;0.12156862765550613&lt;/real&gt;</span></p>
+<p class="p1"><span class="s1"><span class="Apple-tab-span">	</span><span class="Apple-tab-span">	</span>&lt;key&gt;Green Component&lt;/key&gt;</span></p>
+<p class="p1"><span class="s1"><span class="Apple-tab-span">	</span><span class="Apple-tab-span">	</span>&lt;real&gt;0.86666667461395264&lt;/real&gt;</span></p>
+<p class="p1"><span class="s1"><span class="Apple-tab-span">	</span><span class="Apple-tab-span">	</span>&lt;key&gt;Red Component&lt;/key&gt;</span></p>
+<p class="p1"><span class="s1"><span class="Apple-tab-span">	</span><span class="Apple-tab-span">	</span>&lt;real&gt;0.58823531866073608&lt;/real&gt;</span></p>
+<p class="p1"><span class="s1"><span class="Apple-tab-span">	</span>&lt;/dict&gt;</span></p>
+<p class="p1"><span class="s1"><span class="Apple-tab-span">	</span>&lt;key&gt;Ansi 3 Color&lt;/key&gt;</span></p>
+<p class="p1"><span class="s1"><span class="Apple-tab-span">	</span>&lt;dict&gt;</span></p>
+<p class="p1"><span class="s1"><span class="Apple-tab-span">	</span><span class="Apple-tab-span">	</span>&lt;key&gt;Blue Component&lt;/key&gt;</span></p>
+<p class="p1"><span class="s1"><span class="Apple-tab-span">	</span><span class="Apple-tab-span">	</span>&lt;real&gt;0.33725491166114807&lt;/real&gt;</span></p>
+<p class="p1"><span class="s1"><span class="Apple-tab-span">	</span><span class="Apple-tab-span">	</span>&lt;key&gt;Green Component&lt;/key&gt;</span></p>
+<p class="p1"><span class="s1"><span class="Apple-tab-span">	</span><span class="Apple-tab-span">	</span>&lt;real&gt;0.77254903316497803&lt;/real&gt;</span></p>
+<p class="p1"><span class="s1"><span class="Apple-tab-span">	</span><span class="Apple-tab-span">	</span>&lt;key&gt;Red Component&lt;/key&gt;</span></p>
+<p class="p1"><span class="s1"><span class="Apple-tab-span">	</span><span class="Apple-tab-span">	</span>&lt;real&gt;0.89411765336990356&lt;/real&gt;</span></p>
+<p class="p1"><span class="s1"><span class="Apple-tab-span">	</span>&lt;/dict&gt;</span></p>
+<p class="p1"><span class="s1"><span class="Apple-tab-span">	</span>&lt;key&gt;Ansi 4 Color&lt;/key&gt;</span></p>
+<p class="p1"><span class="s1"><span class="Apple-tab-span">	</span>&lt;dict&gt;</span></p>
+<p class="p1"><span class="s1"><span class="Apple-tab-span">	</span><span class="Apple-tab-span">	</span>&lt;key&gt;Blue Component&lt;/key&gt;</span></p>
+<p class="p1"><span class="s1"><span class="Apple-tab-span">	</span><span class="Apple-tab-span">	</span>&lt;real&gt;0.80392158031463623&lt;/real&gt;</span></p>
+<p class="p1"><span class="s1"><span class="Apple-tab-span">	</span><span class="Apple-tab-span">	</span>&lt;key&gt;Green Component&lt;/key&gt;</span></p>
+<p class="p1"><span class="s1"><span class="Apple-tab-span">	</span><span class="Apple-tab-span">	</span>&lt;real&gt;0.3960784375667572&lt;/real&gt;</span></p>
+<p class="p1"><span class="s1"><span class="Apple-tab-span">	</span><span class="Apple-tab-span">	</span>&lt;key&gt;Red Component&lt;/key&gt;</span></p>
+<p class="p1"><span class="s1"><span class="Apple-tab-span">	</span><span class="Apple-tab-span">	</span>&lt;real&gt;0.57647061347961426&lt;/real&gt;</span></p>
+<p class="p1"><span class="s1"><span class="Apple-tab-span">	</span>&lt;/dict&gt;</span></p>
+<p class="p1"><span class="s1"><span class="Apple-tab-span">	</span>&lt;key&gt;Ansi 5 Color&lt;/key&gt;</span></p>
+<p class="p1"><span class="s1"><span class="Apple-tab-span">	</span>&lt;dict&gt;</span></p>
+<p class="p1"><span class="s1"><span class="Apple-tab-span">	</span><span class="Apple-tab-span">	</span>&lt;key&gt;Blue Component&lt;/key&gt;</span></p>
+<p class="p1"><span class="s1"><span class="Apple-tab-span">	</span><span class="Apple-tab-span">	</span>&lt;real&gt;0.35294118523597717&lt;/real&gt;</span></p>
+<p class="p1"><span class="s1"><span class="Apple-tab-span">	</span><span class="Apple-tab-span">	</span>&lt;key&gt;Green Component&lt;/key&gt;</span></p>
+<p class="p1"><span class="s1"><span class="Apple-tab-span">	</span><span class="Apple-tab-span">	</span>&lt;real&gt;0.050980392843484879&lt;/real&gt;</span></p>
+<p class="p1"><span class="s1"><span class="Apple-tab-span">	</span><span class="Apple-tab-span">	</span>&lt;key&gt;Red Component&lt;/key&gt;</span></p>
+<p class="p1"><span class="s1"><span class="Apple-tab-span">	</span><span class="Apple-tab-span">	</span>&lt;real&gt;0.96078431606292725&lt;/real&gt;</span></p>
+<p class="p1"><span class="s1"><span class="Apple-tab-span">	</span>&lt;/dict&gt;</span></p>
+<p class="p1"><span class="s1"><span class="Apple-tab-span">	</span>&lt;key&gt;Ansi 6 Color&lt;/key&gt;</span></p>
+<p class="p1"><span class="s1"><span class="Apple-tab-span">	</span>&lt;dict&gt;</span></p>
+<p class="p1"><span class="s1"><span class="Apple-tab-span">	</span><span class="Apple-tab-span">	</span>&lt;key&gt;Blue Component&lt;/key&gt;</span></p>
+<p class="p1"><span class="s1"><span class="Apple-tab-span">	</span><span class="Apple-tab-span">	</span>&lt;real&gt;0.88235294818878174&lt;/real&gt;</span></p>
+<p class="p1"><span class="s1"><span class="Apple-tab-span">	</span><span class="Apple-tab-span">	</span>&lt;key&gt;Green Component&lt;/key&gt;</span></p>
+<p class="p1"><span class="s1"><span class="Apple-tab-span">	</span><span class="Apple-tab-span">	</span>&lt;real&gt;0.82352942228317261&lt;/real&gt;</span></p>
+<p class="p1"><span class="s1"><span class="Apple-tab-span">	</span><span class="Apple-tab-span">	</span>&lt;key&gt;Red Component&lt;/key&gt;</span></p>
+<p class="p1"><span class="s1"><span class="Apple-tab-span">	</span><span class="Apple-tab-span">	</span>&lt;real&gt;0.34509804844856262&lt;/real&gt;</span></p>
+<p class="p1"><span class="s1"><span class="Apple-tab-span">	</span>&lt;/dict&gt;</span></p>
+<p class="p1"><span class="s1"><span class="Apple-tab-span">	</span>&lt;key&gt;Ansi 7 Color&lt;/key&gt;</span></p>
+<p class="p1"><span class="s1"><span class="Apple-tab-span">	</span>&lt;dict&gt;</span></p>
+<p class="p1"><span class="s1"><span class="Apple-tab-span">	</span><span class="Apple-tab-span">	</span>&lt;key&gt;Blue Component&lt;/key&gt;</span></p>
+<p class="p1"><span class="s1"><span class="Apple-tab-span">	</span><span class="Apple-tab-span">	</span>&lt;real&gt;1&lt;/real&gt;</span></p>
+<p class="p1"><span class="s1"><span class="Apple-tab-span">	</span><span class="Apple-tab-span">	</span>&lt;key&gt;Green Component&lt;/key&gt;</span></p>
+<p class="p1"><span class="s1"><span class="Apple-tab-span">	</span><span class="Apple-tab-span">	</span>&lt;real&gt;1&lt;/real&gt;</span></p>
+<p class="p1"><span class="s1"><span class="Apple-tab-span">	</span><span class="Apple-tab-span">	</span>&lt;key&gt;Red Component&lt;/key&gt;</span></p>
+<p class="p1"><span class="s1"><span class="Apple-tab-span">	</span><span class="Apple-tab-span">	</span>&lt;real&gt;1&lt;/real&gt;</span></p>
+<p class="p1"><span class="s1"><span class="Apple-tab-span">	</span>&lt;/dict&gt;</span></p>
+<p class="p1"><span class="s1"><span class="Apple-tab-span">	</span>&lt;key&gt;Ansi 8 Color&lt;/key&gt;</span></p>
+<p class="p1"><span class="s1"><span class="Apple-tab-span">	</span>&lt;dict&gt;</span></p>
+<p class="p1"><span class="s1"><span class="Apple-tab-span">	</span><span class="Apple-tab-span">	</span>&lt;key&gt;Blue Component&lt;/key&gt;</span></p>
+<p class="p1"><span class="s1"><span class="Apple-tab-span">	</span><span class="Apple-tab-span">	</span>&lt;real&gt;0.29411765933036804&lt;/real&gt;</span></p>
+<p class="p1"><span class="s1"><span class="Apple-tab-span">	</span><span class="Apple-tab-span">	</span>&lt;key&gt;Green Component&lt;/key&gt;</span></p>
+<p class="p1"><span class="s1"><span class="Apple-tab-span">	</span><span class="Apple-tab-span">	</span>&lt;real&gt;0.364705890417099&lt;/real&gt;</span></p>
+<p class="p1"><span class="s1"><span class="Apple-tab-span">	</span><span class="Apple-tab-span">	</span>&lt;key&gt;Red Component&lt;/key&gt;</span></p>
+<p class="p1"><span class="s1"><span class="Apple-tab-span">	</span><span class="Apple-tab-span">	</span>&lt;real&gt;0.36078432202339172&lt;/real&gt;</span></p>
+<p class="p1"><span class="s1"><span class="Apple-tab-span">	</span>&lt;/dict&gt;</span></p>
+<p class="p1"><span class="s1"><span class="Apple-tab-span">	</span>&lt;key&gt;Ansi 9 Color&lt;/key&gt;</span></p>
+<p class="p1"><span class="s1"><span class="Apple-tab-span">	</span>&lt;dict&gt;</span></p>
+<p class="p1"><span class="s1"><span class="Apple-tab-span">	</span><span class="Apple-tab-span">	</span>&lt;key&gt;Blue Component&lt;/key&gt;</span></p>
+<p class="p1"><span class="s1"><span class="Apple-tab-span">	</span><span class="Apple-tab-span">	</span>&lt;real&gt;0.35294118523597717&lt;/real&gt;</span></p>
+<p class="p1"><span class="s1"><span class="Apple-tab-span">	</span><span class="Apple-tab-span">	</span>&lt;key&gt;Green Component&lt;/key&gt;</span></p>
+<p class="p1"><span class="s1"><span class="Apple-tab-span">	</span><span class="Apple-tab-span">	</span>&lt;real&gt;0.050980392843484879&lt;/real&gt;</span></p>
+<p class="p1"><span class="s1"><span class="Apple-tab-span">	</span><span class="Apple-tab-span">	</span>&lt;key&gt;Red Component&lt;/key&gt;</span></p>
+<p class="p1"><span class="s1"><span class="Apple-tab-span">	</span><span class="Apple-tab-span">	</span>&lt;real&gt;0.96078431606292725&lt;/real&gt;</span></p>
+<p class="p1"><span class="s1"><span class="Apple-tab-span">	</span>&lt;/dict&gt;</span></p>
+<p class="p1"><span class="s1"><span class="Apple-tab-span">	</span>&lt;key&gt;Background Color&lt;/key&gt;</span></p>
+<p class="p1"><span class="s1"><span class="Apple-tab-span">	</span>&lt;dict&gt;</span></p>
+<p class="p1"><span class="s1"><span class="Apple-tab-span">	</span><span class="Apple-tab-span">	</span>&lt;key&gt;Blue Component&lt;/key&gt;</span></p>
+<p class="p1"><span class="s1"><span class="Apple-tab-span">	</span><span class="Apple-tab-span">	</span>&lt;real&gt;0.10196078568696976&lt;/real&gt;</span></p>
+<p class="p1"><span class="s1"><span class="Apple-tab-span">	</span><span class="Apple-tab-span">	</span>&lt;key&gt;Green Component&lt;/key&gt;</span></p>
+<p class="p1"><span class="s1"><span class="Apple-tab-span">	</span><span class="Apple-tab-span">	</span>&lt;real&gt;0.10196078568696976&lt;/real&gt;</span></p>
+<p class="p1"><span class="s1"><span class="Apple-tab-span">	</span><span class="Apple-tab-span">	</span>&lt;key&gt;Red Component&lt;/key&gt;</span></p>
+<p class="p1"><span class="s1"><span class="Apple-tab-span">	</span><span class="Apple-tab-span">	</span>&lt;real&gt;0.10196078568696976&lt;/real&gt;</span></p>
+<p class="p1"><span class="s1"><span class="Apple-tab-span">	</span>&lt;/dict&gt;</span></p>
+<p class="p1"><span class="s1"><span class="Apple-tab-span">	</span>&lt;key&gt;Bold Color&lt;/key&gt;</span></p>
+<p class="p1"><span class="s1"><span class="Apple-tab-span">	</span>&lt;dict&gt;</span></p>
+<p class="p1"><span class="s1"><span class="Apple-tab-span">	</span><span class="Apple-tab-span">	</span>&lt;key&gt;Blue Component&lt;/key&gt;</span></p>
+<p class="p1"><span class="s1"><span class="Apple-tab-span">	</span><span class="Apple-tab-span">	</span>&lt;real&gt;0.72549021244049072&lt;/real&gt;</span></p>
+<p class="p1"><span class="s1"><span class="Apple-tab-span">	</span><span class="Apple-tab-span">	</span>&lt;key&gt;Green Component&lt;/key&gt;</span></p>
+<p class="p1"><span class="s1"><span class="Apple-tab-span">	</span><span class="Apple-tab-span">	</span>&lt;real&gt;0.69019609689712524&lt;/real&gt;</span></p>
+<p class="p1"><span class="s1"><span class="Apple-tab-span">	</span><span class="Apple-tab-span">	</span>&lt;key&gt;Red Component&lt;/key&gt;</span></p>
+<p class="p1"><span class="s1"><span class="Apple-tab-span">	</span><span class="Apple-tab-span">	</span>&lt;real&gt;0.69019609689712524&lt;/real&gt;</span></p>
+<p class="p1"><span class="s1"><span class="Apple-tab-span">	</span>&lt;/dict&gt;</span></p>
+<p class="p1"><span class="s1"><span class="Apple-tab-span">	</span>&lt;key&gt;Cursor Color&lt;/key&gt;</span></p>
+<p class="p1"><span class="s1"><span class="Apple-tab-span">	</span>&lt;dict&gt;</span></p>
+<p class="p1"><span class="s1"><span class="Apple-tab-span">	</span><span class="Apple-tab-span">	</span>&lt;key&gt;Blue Component&lt;/key&gt;</span></p>
+<p class="p1"><span class="s1"><span class="Apple-tab-span">	</span><span class="Apple-tab-span">	</span>&lt;real&gt;0.92647796869277954&lt;/real&gt;</span></p>
+<p class="p1"><span class="s1"><span class="Apple-tab-span">	</span><span class="Apple-tab-span">	</span>&lt;key&gt;Green Component&lt;/key&gt;</span></p>
+<p class="p1"><span class="s1"><span class="Apple-tab-span">	</span><span class="Apple-tab-span">	</span>&lt;real&gt;0.96674919128417969&lt;/real&gt;</span></p>
+<p class="p1"><span class="s1"><span class="Apple-tab-span">	</span><span class="Apple-tab-span">	</span>&lt;key&gt;Red Component&lt;/key&gt;</span></p>
+<p class="p1"><span class="s1"><span class="Apple-tab-span">	</span><span class="Apple-tab-span">	</span>&lt;real&gt;0.96554505825042725&lt;/real&gt;</span></p>
+<p class="p1"><span class="s1"><span class="Apple-tab-span">	</span>&lt;/dict&gt;</span></p>
+<p class="p1"><span class="s1"><span class="Apple-tab-span">	</span>&lt;key&gt;Cursor Text Color&lt;/key&gt;</span></p>
+<p class="p1"><span class="s1"><span class="Apple-tab-span">	</span>&lt;dict&gt;</span></p>
+<p class="p1"><span class="s1"><span class="Apple-tab-span">	</span><span class="Apple-tab-span">	</span>&lt;key&gt;Blue Component&lt;/key&gt;</span></p>
+<p class="p1"><span class="s1"><span class="Apple-tab-span">	</span><span class="Apple-tab-span">	</span>&lt;real&gt;0.70993047952651978&lt;/real&gt;</span></p>
+<p class="p1"><span class="s1"><span class="Apple-tab-span">	</span><span class="Apple-tab-span">	</span>&lt;key&gt;Green Component&lt;/key&gt;</span></p>
+<p class="p1"><span class="s1"><span class="Apple-tab-span">	</span><span class="Apple-tab-span">	</span>&lt;real&gt;0.77144092321395874&lt;/real&gt;</span></p>
+<p class="p1"><span class="s1"><span class="Apple-tab-span">	</span><span class="Apple-tab-span">	</span>&lt;key&gt;Red Component&lt;/key&gt;</span></p>
+<p class="p1"><span class="s1"><span class="Apple-tab-span">	</span><span class="Apple-tab-span">	</span>&lt;real&gt;0.76960963010787964&lt;/real&gt;</span></p>
+<p class="p1"><span class="s1"><span class="Apple-tab-span">	</span>&lt;/dict&gt;</span></p>
+<p class="p1"><span class="s1"><span class="Apple-tab-span">	</span>&lt;key&gt;Foreground Color&lt;/key&gt;</span></p>
+<p class="p1"><span class="s1"><span class="Apple-tab-span">	</span>&lt;dict&gt;</span></p>
+<p class="p1"><span class="s1"><span class="Apple-tab-span">	</span><span class="Apple-tab-span">	</span>&lt;key&gt;Blue Component&lt;/key&gt;</span></p>
+<p class="p1"><span class="s1"><span class="Apple-tab-span">	</span><span class="Apple-tab-span">	</span>&lt;real&gt;1&lt;/real&gt;</span></p>
+<p class="p1"><span class="s1"><span class="Apple-tab-span">	</span><span class="Apple-tab-span">	</span>&lt;key&gt;Green Component&lt;/key&gt;</span></p>
+<p class="p1"><span class="s1"><span class="Apple-tab-span">	</span><span class="Apple-tab-span">	</span>&lt;real&gt;1&lt;/real&gt;</span></p>
+<p class="p1"><span class="s1"><span class="Apple-tab-span">	</span><span class="Apple-tab-span">	</span>&lt;key&gt;Red Component&lt;/key&gt;</span></p>
+<p class="p1"><span class="s1"><span class="Apple-tab-span">	</span><span class="Apple-tab-span">	</span>&lt;real&gt;1&lt;/real&gt;</span></p>
+<p class="p1"><span class="s1"><span class="Apple-tab-span">	</span>&lt;/dict&gt;</span></p>
+<p class="p1"><span class="s1"><span class="Apple-tab-span">	</span>&lt;key&gt;Selected Text Color&lt;/key&gt;</span></p>
+<p class="p1"><span class="s1"><span class="Apple-tab-span">	</span>&lt;dict&gt;</span></p>
+<p class="p1"><span class="s1"><span class="Apple-tab-span">	</span><span class="Apple-tab-span">	</span>&lt;key&gt;Blue Component&lt;/key&gt;</span></p>
+<p class="p1"><span class="s1"><span class="Apple-tab-span">	</span><span class="Apple-tab-span">	</span>&lt;real&gt;0.72549021244049072&lt;/real&gt;</span></p>
+<p class="p1"><span class="s1"><span class="Apple-tab-span">	</span><span class="Apple-tab-span">	</span>&lt;key&gt;Green Component&lt;/key&gt;</span></p>
+<p class="p1"><span class="s1"><span class="Apple-tab-span">	</span><span class="Apple-tab-span">	</span>&lt;real&gt;0.69019609689712524&lt;/real&gt;</span></p>
+<p class="p1"><span class="s1"><span class="Apple-tab-span">	</span><span class="Apple-tab-span">	</span>&lt;key&gt;Red Component&lt;/key&gt;</span></p>
+<p class="p1"><span class="s1"><span class="Apple-tab-span">	</span><span class="Apple-tab-span">	</span>&lt;real&gt;0.69019609689712524&lt;/real&gt;</span></p>
+<p class="p1"><span class="s1"><span class="Apple-tab-span">	</span>&lt;/dict&gt;</span></p>
+<p class="p1"><span class="s1"><span class="Apple-tab-span">	</span>&lt;key&gt;Selection Color&lt;/key&gt;</span></p>
+<p class="p1"><span class="s1"><span class="Apple-tab-span">	</span>&lt;dict&gt;</span></p>
+<p class="p1"><span class="s1"><span class="Apple-tab-span">	</span><span class="Apple-tab-span">	</span>&lt;key&gt;Blue Component&lt;/key&gt;</span></p>
+<p class="p1"><span class="s1"><span class="Apple-tab-span">	</span><span class="Apple-tab-span">	</span>&lt;real&gt;0.29411765933036804&lt;/real&gt;</span></p>
+<p class="p1"><span class="s1"><span class="Apple-tab-span">	</span><span class="Apple-tab-span">	</span>&lt;key&gt;Green Component&lt;/key&gt;</span></p>
+<p class="p1"><span class="s1"><span class="Apple-tab-span">	</span><span class="Apple-tab-span">	</span>&lt;real&gt;0.364705890417099&lt;/real&gt;</span></p>
+<p class="p1"><span class="s1"><span class="Apple-tab-span">	</span><span class="Apple-tab-span">	</span>&lt;key&gt;Red Component&lt;/key&gt;</span></p>
+<p class="p1"><span class="s1"><span class="Apple-tab-span">	</span><span class="Apple-tab-span">	</span>&lt;real&gt;0.36078432202339172&lt;/real&gt;</span></p>
+<p class="p1"><span class="s1"><span class="Apple-tab-span">	</span>&lt;/dict&gt;</span></p>
+<p class="p1"><span class="s1">&lt;/dict&gt;</span></p>
+<p class="p1"><span class="s1">&lt;/plist&gt;</span></p>
+</body>
+</html>
+Ytext/html    ( F ] l ~ î ö õ ∞tw                           tÅ
