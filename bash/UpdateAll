@@ -13,6 +13,9 @@ pyUp
 print "Gem updating"
 gem update
 
+print "tldr updating"
+tldr --update
+
 print "finished"
 
 exit
