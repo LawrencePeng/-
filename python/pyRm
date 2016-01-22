@@ -5,6 +5,6 @@ then
     exit
 fi
 
-pip uninstall $* &
-pip3 uninstall $* &
-pip_pypy uninstall $* &
+pip uninstall $*
+pip3 uninstall $*
+pip_pypy uninstall $*
