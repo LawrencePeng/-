@@ -1,0 +1,18 @@
+#!/usr/local/bin/zsh
+print "Brew updating"
+brew update
+brew upgrade
+
+print "NPM updating"
+npm update -g
+npm upgrade -g
+
+print "PIP updating"
+pyUp
+
+print "Gem updating"
+gem update
+
+print "finished"
+
+exit
