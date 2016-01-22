@@ -1,5 +1,10 @@
 #!/usr/local/bin/zsh
-
-sudo pip install "$*";
-sudo pip3 install "$*";
-sudo pip_pypy install "$*"
+if [ $# -eq 0 ]
+then
+    print "The Arguement's Length Is 0"
+    exit;
+else
+    sudo pip install $*;
+    sudo pip3 install $*;
+    sudo pip_pypy install $*;
+fi
