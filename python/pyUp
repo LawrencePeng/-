@@ -1,5 +1,5 @@
 #!/usr/local/bin/zsh
 
-pip freeze --local | grep -v '^\-e' | cut -d = -f 1  | xargs pip install -U
-pip3 freeze --local | grep -v '^\-e' | cut -d = -f 1  | xargs pip install -U
-pip_pypy freeze --local | grep -v '^\-e' | cut -d = -f 1  | xargs pip install -U
+pip freeze --local | grep -v '^\-e' | cut -d = -f 1  | xargs pip install -U &
+pip3 freeze --local | grep -v '^\-e' | cut -d = -f 1  | xargs pip install -U &
+pip_pypy freeze --local | grep -v '^\-e' | cut -d = -f 1  | xargs pip install -U &

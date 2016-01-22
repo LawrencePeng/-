@@ -4,7 +4,7 @@ then
     print "The Arguement's Length Is 0"
     exit;
 else
-    sudo pip install $*;
-    sudo pip3 install $*;
-    sudo pip_pypy install $*;
+    sudo pip install $* &
+    sudo pip3 install $* &
+    sudo pip_pypy install $* &
 fi
