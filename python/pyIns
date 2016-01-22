@@ -1,7 +1,7 @@
 #!/usr/local/bin/zsh
 if [ $# -eq 0 ]
 then
-    print "The Arguement's Length Is 0"
+    print "The Argument's Length Is 0"
     exit;
 else
     sudo pip install $*
