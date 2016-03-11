@@ -2,15 +2,17 @@
 print "Brew updating"
 brew update
 brew upgrade
-
+print "node updating"
+sudo n latest
 print "NPM updating"
-npm update -g
-npm upgrade -g
+sudo npm update -g
+sudo npm upgrade -g
 print "PIP updating"
-pyUp
+sudo pyUp
 print "Gem updating"
-gem update
+sudo gem update
 print "tldr updating"
 tldr --update
+
 print "finished"
 exit
