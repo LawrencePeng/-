@@ -2,6 +2,7 @@
 print "Brew updating"
 brew update
 brew upgrade
+brew cleanup
 print "node updating"
 sudo n latest
 print "NPM updating"
